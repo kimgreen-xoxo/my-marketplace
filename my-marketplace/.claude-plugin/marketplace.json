@@ -1,0 +1,11 @@
+{
+  "name": "my-marketplace",
+  "owner": { "name": "Your Name", "email": "you@example.com" },
+  "plugins": [
+    {
+      "name": "my-plugin",
+      "source": "./plugins/my-plugin",
+      "description": "플러그인 설명"
+    }
+  ]
+}
